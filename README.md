@@ -23,6 +23,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <br>during these 7 days, and everything was explained from the very basics so that
 
 anyone with zero experience on programming can learn.
+[Anusma_AK.ipynb.txt](https://github.com/anu-sma/ShapeAI_Anusma_AK/files/6493072/Anusma_AK.ipynb.txt)
 
 I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
 
